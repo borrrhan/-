@@ -1,0 +1,6 @@
+c:\git\heights\heights\bin\Debug\heights.exe.config
+c:\git\heights\heights\bin\Debug\heights.exe
+c:\git\heights\heights\bin\Debug\heights.pdb
+c:\git\heights\heights\obj\Debug\heights.csprojResolveAssemblyReference.cache
+c:\git\heights\heights\obj\Debug\heights.exe
+c:\git\heights\heights\obj\Debug\heights.pdb
